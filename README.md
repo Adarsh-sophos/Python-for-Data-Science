@@ -1,4 +1,6 @@
-# [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2018/course/) (A course on edX)
+# [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2018/course/)
+
+> **First course of the EdX / UC San Diego MicroMasters in Data Science**
 
 - This course teaches how to conduct data science by learning how to analyze data.
 - That includes knowing how to import data, explore it, analyze it, learn from it, visualize it, and ultimately generate easily shareable reports. It also introduces to two powerful areas of data analysis: machine learning and natural language processing.
